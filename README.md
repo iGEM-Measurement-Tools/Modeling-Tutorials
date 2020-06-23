@@ -9,3 +9,5 @@ Here you will find information, documentation and material related to the Modeli
 
 -List of interesting links to external resources
 
+This material is organized in folders one per webinar.
+
