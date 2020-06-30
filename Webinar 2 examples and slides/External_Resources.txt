@@ -5,6 +5,3 @@ https://bionumbers.hms.harvard.edu/search.aspx
 
 Link to Addgene Ori 101 where you can get information relater to Origin of replication and plasmid copy numbers.
 https://blog.addgene.org/plasmid-101-origin-of-replication
-
-In depth explanation of Reaction Rates
-https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Kinetics/Reaction_Rates/Reaction_Rate
